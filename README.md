@@ -1,1 +1,1 @@
-![Architecture Diagram](https://github.com/DivineSamOfficial/SmartCityProject/blob/main/Analysis-1.png)
+![Architecture Diagram](https://github.com/DivineSamOfficial/Integrated-Data-Pipeline-Kafka-MongoDB-ETL/blob/main/Architecture%20Diagram.pdf)
